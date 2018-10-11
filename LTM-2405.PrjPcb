@@ -91,7 +91,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\Altium\Chave CS12ANW03\CS12ANW03.SchLib
+DocumentPath=..\..\Altium\expansor VSS e SSL\STMPE811QTR\Altium\Imported PADS Libraries.PrjPcb\STMPE811QTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -108,23 +108,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\Altium\Chave CS12ANW03\CS12ANW03.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=..\..\Altium\expansor VSS e SSL\STMPE811QTR\Altium\Imported PADS Libraries.PrjPcb\QFN50P300X300X100-17N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,8 +124,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=..\..\Altium\Chave CS12ANW03\CS12ANW03.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document7]
-DocumentPath=..\..\Altium\expansor VSS e SSL\STMPE811QTR\Altium\Imported PADS Libraries.PrjPcb\STMPE811QTR.SchLib
+DocumentPath=..\..\Altium\Chave CS12ANW03\CS12ANW03.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
