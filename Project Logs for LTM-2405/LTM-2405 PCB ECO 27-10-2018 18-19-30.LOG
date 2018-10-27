@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=LED_BALL_L NewDesignator=LED_BALL
+Added Pin To Net: NetName=GND Pin=LED_BALL-1
+Added Pin To Net: NetName=NetLED_BALL_2 Pin=LED_BALL-2
+Added Member To Class: ClassName=LTM-2405 Member=Component LED_BALL LED
