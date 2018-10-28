@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Q1OUT Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Change Net Name : Old Net Name=NetQ1_4 New Net Name=Q1_GATE
