@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VBAT Pin=CM1-1
+Removed Pin From Net: NetName=VBAT Pin=CM2-1
+Removed Pin From Net: NetName=VBAT Pin=INA1-3
+Removed Pin From Net: NetName=VBAT Pin=INA1-4
+Removed Pin From Net: NetName=VBAT Pin=INA2-3
+Removed Pin From Net: NetName=VBAT Pin=INA2-4
+Removed Pin From Net: NetName=VBAT Pin=RS1-1
+Removed Pin From Net: NetName=VBAT Pin=RS2-1
+Added Pin To Net: NetName=Q1OUT Pin=CM1-1
+Added Pin To Net: NetName=Q1OUT Pin=CM2-1
+Added Pin To Net: NetName=Q1OUT Pin=INA1-3
+Added Pin To Net: NetName=Q1OUT Pin=INA1-4
+Added Pin To Net: NetName=Q1OUT Pin=INA2-3
+Added Pin To Net: NetName=Q1OUT Pin=INA2-4
+Added Pin To Net: NetName=Q1OUT Pin=RS1-1
+Added Pin To Net: NetName=Q1OUT Pin=RS2-1
+Change Net Name : Old Net Name=Q1OUT New Net Name=VBAT
+Change Net Name : Old Net Name=VBAT New Net Name=Q1_Vin
