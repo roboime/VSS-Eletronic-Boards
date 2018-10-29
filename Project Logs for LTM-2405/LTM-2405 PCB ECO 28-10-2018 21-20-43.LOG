@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Q1_Vin Pin=BAT1-0
+Removed Pin From Net: NetName=GND Pin=BAT1-1
+Removed Pin From Net: NetName=GND Pin=CN1-MNT1
+Removed Pin From Net: NetName=GND Pin=CN1-MNT2
+Removed Pin From Net: NetName=GND Pin=CN2-MNT1
+Removed Pin From Net: NetName=GND Pin=CN2-MNT2
+Removed Member From Class: ClassName=LTM-2405 Member=BAT1
