@@ -1,0 +1,74 @@
+Change Component Comment : Designator=INA169_M2 Old Comment=INA169 New Comment=INA169NA
+Change Component Comment : Designator=INA169_M3 Old Comment=INA169 New Comment=INA169NA
+Change Component Designator: OldDesignator=7SEG1 NewDesignator=7SEG
+Change Component Designator: OldDesignator=C7 NewDesignator=C32
+Change Component Designator: OldDesignator=IC3 NewDesignator=MPU1
+Change Component Designator: OldDesignator=ID NewDesignator=SW_ID
+Change Component Designator: OldDesignator=INA169_M2 NewDesignator=INA1
+Change Component Designator: OldDesignator=INA169_M3 NewDesignator=INA2
+Change Component Designator: OldDesignator=LED_BALL_L NewDesignator=LED_BALL
+Change Component Designator: OldDesignator=LED_COM_L NewDesignator=LED_COM
+Change Component Designator: OldDesignator=LED_GRE_L NewDesignator=LED_GREEN
+Change Component Designator: OldDesignator=LED_ORA_L NewDesignator=LED_ORANGE
+Added Pin To Net: NetName=VCC Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VCC Pin=C33-2
+Added Pin To Net: NetName=INA1_OUT Pin=INA1-1
+Added Pin To Net: NetName=GND Pin=INA1-2
+Added Pin To Net: NetName=VBAT Pin=INA1-3
+Added Pin To Net: NetName=VBAT Pin=INA1-4
+Added Pin To Net: NetName=NetFM1_1 Pin=INA1-5
+Added Pin To Net: NetName=INA2_OUT Pin=INA2-1
+Added Pin To Net: NetName=GND Pin=INA2-2
+Added Pin To Net: NetName=VBAT Pin=INA2-3
+Added Pin To Net: NetName=VBAT Pin=INA2-4
+Added Pin To Net: NetName=NetFM2_1 Pin=INA2-5
+Added Pin To Net: NetName=GND Pin=LED_BALL-1
+Added Pin To Net: NetName=NetLED_BALL_2 Pin=LED_BALL-2
+Added Pin To Net: NetName=GND Pin=LED_COM-1
+Added Pin To Net: NetName=NetLED_COM_2 Pin=LED_COM-2
+Added Pin To Net: NetName=GND Pin=LED_GREEN-1
+Added Pin To Net: NetName=NetLED_GREEN_2 Pin=LED_GREEN-2
+Added Pin To Net: NetName=GND Pin=LED_ORANGE-1
+Added Pin To Net: NetName=NetLED_ORANGE_2 Pin=LED_ORANGE-2
+Added Pin To Net: NetName=VCC Pin=MPU1-1
+Added Pin To Net: NetName=VCC Pin=MPU1-8
+Added Pin To Net: NetName=GND Pin=MPU1-9
+Added Pin To Net: NetName=VCC Pin=MPU1-10
+Added Pin To Net: NetName=GND Pin=MPU1-11
+Added Pin To Net: NetName=INT_MPU Pin=MPU1-12
+Added Pin To Net: NetName=VCC Pin=MPU1-13
+Added Pin To Net: NetName=GND Pin=MPU1-18
+Added Pin To Net: NetName=GND Pin=MPU1-18
+Added Pin To Net: NetName=GND Pin=MPU1-20
+Added Pin To Net: NetName=SCL_EP Pin=MPU1-23
+Added Pin To Net: NetName=SDA_EP Pin=MPU1-24
+Added Pin To Net: NetName=ID_BUTTON Pin=SW_ID-1
+Added Pin To Net: NetName=GND Pin=SW_ID-2
+Added Pin To Net: NetName=Net7SEG_1 Pin=R61-2
+Added Net: Name=Net7SEG_1
+Added Pin To Net: NetName=Net7SEG_2 Pin=R62-2
+Added Net: Name=Net7SEG_2
+Added Pin To Net: NetName=Net7SEG_4 Pin=R63-2
+Added Net: Name=Net7SEG_4
+Added Pin To Net: NetName=Net7SEG_5 Pin=R64-2
+Added Net: Name=Net7SEG_5
+Added Pin To Net: NetName=Net7SEG_6 Pin=R65-1
+Added Net: Name=Net7SEG_6
+Added Pin To Net: NetName=Net7SEG_7 Pin=R66-1
+Added Net: Name=Net7SEG_7
+Added Pin To Net: NetName=Net7SEG_9 Pin=R67-1
+Added Net: Name=Net7SEG_9
+Added Pin To Net: NetName=Net7SEG_10 Pin=R68-1
+Added Net: Name=Net7SEG_10
+Added Member To Class: ClassName=LTM-2405 Member=Component C32 1uF
+Added Member To Class: ClassName=LTM-2405 Member=Component INA1 INA169NA
+Added Member To Class: ClassName=LTM-2405 Member=Component INA2 INA169NA
+Added Member To Class: ClassName=LTM-2405 Member=Component LED_BALL LED
+Added Member To Class: ClassName=LTM-2405 Member=Component LED_COM LED
+Added Member To Class: ClassName=LTM-2405 Member=Component LED_GREEN LED
+Added Member To Class: ClassName=LTM-2405 Member=Component LED_ORANGE LED
+Added Member To Class: ClassName=LTM-2405 Member=Component MPU1 MPU-9250
+Added Member To Class: ClassName=LTM-2405 Member=Component R11 100K
+Added Member To Class: ClassName=LTM-2405 Member=Component R12 0R
+Added Member To Class: ClassName=LTM-2405 Member=Component SW_ID SWITCH TACTILE 6 x 3.5 x 4.3 mm

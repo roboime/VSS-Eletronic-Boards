@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=7SEG Old Footprint=PCBComponent_1 New Footprint=7seg-pcb
+Added Pin To Net: NetName=Net7SEG_1 Pin=7SEG-1
+Added Pin To Net: NetName=Net7SEG_2 Pin=7SEG-2
+Added Pin To Net: NetName=VCC Pin=7SEG-3
+Added Pin To Net: NetName=Net7SEG_4 Pin=7SEG-4
+Added Pin To Net: NetName=Net7SEG_5 Pin=7SEG-5
+Added Pin To Net: NetName=Net7SEG_6 Pin=7SEG-6
+Added Pin To Net: NetName=Net7SEG_7 Pin=7SEG-7
+Added Pin To Net: NetName=VCC Pin=7SEG-8
+Added Pin To Net: NetName=Net7SEG_9 Pin=7SEG-9
+Added Pin To Net: NetName=Net7SEG_10 Pin=7SEG-10
