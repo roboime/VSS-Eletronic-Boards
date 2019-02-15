@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LTM-2405.PrjPcb]
+   Generated File[LTM-2405.TXT]
+   Generated File[LTM-2405.LDP]
+   Generated File[LTM-2405.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:57:06 On 01/11/2018

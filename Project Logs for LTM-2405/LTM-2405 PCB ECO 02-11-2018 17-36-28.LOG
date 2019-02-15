@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Green_led Pin=BP1-3
+Removed Pin From Net: NetName=GND Pin=CN1-MNT1
+Removed Pin From Net: NetName=GND Pin=CN1-MNT2
+Removed Pin From Net: NetName=GND Pin=CN2-MNT1
+Removed Pin From Net: NetName=GND Pin=CN2-MNT2
+Removed Pin From Net: NetName=VCC Pin=ExPo1-17
+Added Pin To Net: NetName=GND Pin=BP1-3
+Added Pin To Net: NetName=Green_led Pin=BP1-7
+Added Member To Class: ClassName=LTM-2405 Member=Component R64 100R

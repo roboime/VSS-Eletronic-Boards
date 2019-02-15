@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=IC4 Old Footprint=QFN16_N New Footprint=QFN50P300X300X100-17N-D
+Change Component Comment : Designator=IC4 Old Comment=STMPE811 New Comment=STMPE811QTR
+Change Component Designator: OldDesignator=IC4 NewDesignator=ExPo1
+Change component parameters: Designator = "ExPo1"; Footprint = "QFN50P300X300X100-17N-D"; UniqueID = "\TSIKMWGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STMPE811QTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stmpe811qtr/stmicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/0edc/0900766b80edc3b7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STMPE811QTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1658056"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1658056"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=g Pin=ExPo1-1
+Added Pin To Net: NetName=GND Pin=ExPo1-3
+Added Pin To Net: NetName=SCL_EP Pin=ExPo1-4
+Added Pin To Net: NetName=SDA_EP Pin=ExPo1-5
+Added Pin To Net: NetName=VCC Pin=ExPo1-6
+Added Pin To Net: NetName=a Pin=ExPo1-8
+Added Pin To Net: NetName=DP Pin=ExPo1-9
+Added Pin To Net: NetName=GND Pin=ExPo1-10
+Added Pin To Net: NetName=b Pin=ExPo1-11
+Added Pin To Net: NetName=c Pin=ExPo1-12
+Added Pin To Net: NetName=d Pin=ExPo1-13
+Added Pin To Net: NetName=VCC Pin=ExPo1-14
+Added Pin To Net: NetName=e Pin=ExPo1-15
+Added Pin To Net: NetName=f Pin=ExPo1-16
+Added Member To Class: ClassName=LTM-2405 Member=Component ExPo1 STMPE811QTR

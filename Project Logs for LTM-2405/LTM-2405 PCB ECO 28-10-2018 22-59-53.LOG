@@ -1,0 +1,14 @@
+Added Component: Designator=SW_BAT(CS12ANW03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70228233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/nkk-switches-cs12anw03/70228233/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CS12ANW03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cs12anw03/nkk-switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.nkkswitches.com/pdf/cs.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NKK Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CS12ANW03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1251847"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1251847"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW_BAT-2
+Added Pin To Net: NetName=Q1_GATE Pin=SW_BAT-3
+Added Member To Class: ClassName=LTM-2405 Member=Component SW_BAT CS12ANW03

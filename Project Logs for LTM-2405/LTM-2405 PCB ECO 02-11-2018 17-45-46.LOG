@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Green_led Pin=BP1-7
+Added Pin To Net: NetName=GND Pin=BP1-7
+Added Pin To Net: NetName=Green_led Pin=BP1-8

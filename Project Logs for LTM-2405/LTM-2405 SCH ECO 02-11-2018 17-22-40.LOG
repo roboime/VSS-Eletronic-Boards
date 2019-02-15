@@ -1,0 +1,2 @@
+Change Pin Designator/Name:  Old Designator=BP1-3 Old Name=OSC32 IN/PC14 New Designator =T2C3/TX2/ADC2/PA2 New Name=7
+Change Pin Designator/Name:  Old Designator=BP1-7 Old Name=T2C3/TX2/ADC2/PA2 New Designator =OSC32 IN/PC14 New Name=3
