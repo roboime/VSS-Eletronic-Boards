@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Yellow_led Pin=BP1-2
+Removed Pin From Net: NetName=ID_BUTTON Pin=BP1-4
+Removed Pin From Net: NetName=GND Pin=ExPo1-17
+Added Pin To Net: NetName=Yellow_led Pin=BP1-4
+Added Pin To Net: NetName=ID_BUTTON Pin=BP1-28
